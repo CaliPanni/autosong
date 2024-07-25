@@ -1,0 +1,16 @@
+C:\Users\gpann\source\repos\autosong manager\autosong manager\bin\Debug\net8.0-windows\autosong manager.exe
+C:\Users\gpann\source\repos\autosong manager\autosong manager\bin\Debug\net8.0-windows\autosong manager.deps.json
+C:\Users\gpann\source\repos\autosong manager\autosong manager\bin\Debug\net8.0-windows\autosong manager.runtimeconfig.json
+C:\Users\gpann\source\repos\autosong manager\autosong manager\bin\Debug\net8.0-windows\autosong manager.dll
+C:\Users\gpann\source\repos\autosong manager\autosong manager\bin\Debug\net8.0-windows\autosong manager.pdb
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\autosong_manager.Form1.resources
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\autosong manager.vbproj.GenerateResource.cache
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\autosong manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\autosong manager.AssemblyInfoInputs.cache
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\autosong manager.AssemblyInfo.vb
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\autosong manager.vbproj.CoreCompileInputs.cache
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\autosong manager.dll
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\refint\autosong manager.dll
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\autosong manager.pdb
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\autosong manager.genruntimeconfig.cache
+C:\Users\gpann\source\repos\autosong manager\autosong manager\obj\Debug\net8.0-windows\ref\autosong manager.dll
